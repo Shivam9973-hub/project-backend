@@ -6,12 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
-<<<<<<< HEAD
-
-    "test": "echo \"Error: no test specified\" && exit 1"
-    "start":"node server.js"
-=======
->>>>>>> ad9f0a0 (Save local changes)
   },
   "keywords": [],
   "author": "",
